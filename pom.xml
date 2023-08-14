@@ -37,8 +37,8 @@
 	                    <artifactId>*</artifactId>
 	                </exclusion>
 			<exclusion>
-	                    <groupId>org.springframework</groupId>
-	                    <artifactId>spring-amqp</artifactId>
+	                    <groupId>org.springframework.amqp</groupId>
+	                    <artifactId>*</artifactId>
 	                </exclusion>
 			<exclusion>
 	                    <groupId>org.apache.httpcomponents</groupId>

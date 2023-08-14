@@ -41,6 +41,10 @@
 	                    <artifactId>spring-amqp</artifactId>
 	                </exclusion>
 			<exclusion>
+	                    <groupId>org.springframework</groupId>
+	                    <artifactId>spring-messaging</artifactId>
+	                </exclusion>
+			<exclusion>
 	                    <groupId>org.apache.httpcomponents</groupId>
 	                    <artifactId>*</artifactId>
 	                </exclusion>

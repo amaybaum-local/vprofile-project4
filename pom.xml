@@ -10,9 +10,9 @@
 
     <dependencies>
 	    <dependency>
-	            <groupId>org.springframework</groupId>
-	            <artifactId>spring-web</artifactId>
-	            <version>5.3.28</version>
+	            <groupId>org.jetbrains.kotlin</groupId>
+	            <artifactId>kotlin-stdlib</artifactId>
+	            <version>1.2.71</version>
 	    </dependency>
     </dependencies>
 </project>

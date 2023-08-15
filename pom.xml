@@ -10,9 +10,9 @@
 
     <dependencies>
 	    <dependency>
-	            <groupId>com.thoughtworks.xstream</groupId>
-	            <artifactId>xstream</artifactId>
-	            <version>1.4.19</version>
+	            <groupId>org.springframework</groupId>
+	            <artifactId>spring-web</artifactId>
+	            <version>5.3.18</version>
 	    </dependency>
     </dependencies>
 </project>
